@@ -55,7 +55,7 @@ To build and run the server, you'll need a C compiler and the SQLite development
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/AndreasCnaus/simple_http_server
+    git clone https://github.com/AndreasCnaus/tracker_http_server
     cd simple_http_server 
     ```
 
