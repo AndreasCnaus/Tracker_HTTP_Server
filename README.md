@@ -120,9 +120,7 @@ It is **highly recommended** to use a Python **virtual environment** to install 
 
 ---
 
-## Reference
-
 The fundamental C socket and network utility implementations were guided by:
 
-* **Linux Device Drivers, 3rd Edition:** https://www.oreilly.com/library/view/linux-device-driver/9781803240060/
-* **Linux Device Driver Development - Second Edition:** https://www.oreilly.com/library/view/linux-device-driver/9781803240060/
+* **Beej's Guide to Network Programming:** [https://beej.us/guide/bgnet/](https://beej.us/guide/bgnet/)
+
